@@ -1,0 +1,7 @@
+\documentclass{article}
+\begin{document}
+\title{GitHub LaTeX Example}
+\author{Your Name}
+\maketitle
+Hello, \LaTeX!
+\end{document}
